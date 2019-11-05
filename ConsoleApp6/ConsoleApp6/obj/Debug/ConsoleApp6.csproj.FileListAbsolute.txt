@@ -1,0 +1,5 @@
+C:\Users\1896358\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\1896358\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\1896358\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\1896358\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\1896358\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
